@@ -10,7 +10,8 @@ Este repositório contém uma análise exploratória, descritiva e construção 
 │   └── Atividade_Cap_14_produtos_agricolas.csv  # Dataset utilizado na análise
 ├── notebooks/
 │   └── AgricultureML.ipynb  # Notebook principal com as análises e modelos
-└── README.md  # Documentação do projeto
+├── README.md  # Documentação do projeto
+└── requirements.txt
 ```
 
 ## 📝 Objetivo
